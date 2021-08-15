@@ -1,0 +1,178 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:app:distance from MKAD to Russia, Moscow, MKAD, exit 51 is 27.310996558595686 :
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 14:32:26] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Envs\\test_task\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Envs\\test_task\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 15:02:49] "GET / HTTP/1.1" 200 -
+INFO:app:distance from MKAD to Russia, Moscow Region, Odintsovskiy gorodskoy okrug, territorialnoye upravleniye Barvikhinskoye is 30.276214451582046 :
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 15:02:55] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 15:03:11] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 15:03:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 15:58:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 15:58:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 15:58:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 15:59:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 16:01:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 16:01:13] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:distance from MKAD to United Kingdom is 2521.219523013706 :
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 16:01:19] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:03:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:03:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:app:distance from MKAD to Greenland is 3855.953913079505 :
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:03:51] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:distance from MKAD to Russia, Moscow Region, Odintsovskiy gorodskoy okrug, Romashkovsky Forest is 23.326045939118988 :
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:04:33] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:04:52] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:distance from MKAD to Russia, Moscow, Kalininsko-Solntsevskaya Line, Solntsevo metro station is 31.588065347478633 :
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:05:39] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:distance from MKAD to Russia, Moscow, Moskovskiy Settlement, Tatyanin Park Microdistrict is 30.001165567393297 :
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:05:50] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:06:07] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:06:13] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:06:17] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 422 -
+INFO:app:distance from MKAD to Belgium, Antwerp, Aa is 2193.7647585486775 :
+INFO:werkzeug:127.0.0.1 - - [14/Aug/2021 17:06:25] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:distance from MKAD to Indonesia, Jakarta is 9312.262106432034 :
+INFO:app:distance from MKAD to Indonesia, Jakarta is 9312.262106432034 :
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:app:distance from MKAD to Indonesia, Jakarta is 9312.262106432034 :
+INFO:app:distance from MKAD to Indonesia, Jakarta is 9312.262106432034 :
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:app:distance from MKAD to Niger, Bahu is 5302.36001382842 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 11:34:45] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:app:distance from MKAD to Niger, Bahu is 5302.36001382842 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 11:37:13] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug:192.168.100.11 - - [15/Aug/2021 11:37:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.100.11 - - [15/Aug/2021 11:38:00] "GET / HTTP/1.1" 200 -
+INFO:app:distance from MKAD to Niger, Bahu is 5302.36001382842 :
+INFO:werkzeug:192.168.100.11 - - [15/Aug/2021 11:39:13] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.100.11 - - [15/Aug/2021 11:45:30] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 400 -
+INFO:werkzeug:192.168.100.11 - - [15/Aug/2021 11:45:43] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug:192.168.100.11 - - [15/Aug/2021 11:46:57] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 400 -
+INFO:werkzeug:192.168.100.11 - - [15/Aug/2021 11:47:03] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 400 -
+INFO:app:distance from MKAD to Italy is 2261.2030264619507 :
+INFO:werkzeug:192.168.100.11 - - [15/Aug/2021 11:47:17] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 11:52:19] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 400 -
+INFO:app:distance from MKAD to Singapore, Singapore is 8432.3005628236 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 11:52:50] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:app:distance from MKAD to Borneo Island is 9095.880406298304 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 12:11:58] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:distance from MKAD to South Ossetia, Dzau is 1568.5473671158425 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 12:12:12] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:distance from MKAD to Republic of South Africa, Western Cape Province, Cape Town, Parow, Java - East Street is 10146.677259614515 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 12:12:24] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:app:distance from MKAD to United Arab Emirates, Dubai is 3701.1684607358434 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:49:44] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:make sure you have key address in your JSON data
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:49:51] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 400 -
+INFO:app:Invalid address!
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:50:01] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 422 -
+INFO:app:Invalid address!
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:50:10] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 422 -
+INFO:app:Invalid address!
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:50:23] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 422 -
+INFO:app:You have to send data in json format
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:50:29] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 415 -
+INFO:app:You have to send data in json format
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:51:08] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 415 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:51:18] "[31m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 400 -
+INFO:app:distance from MKAD to Aegean Sea is 2209.4806484070796 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:51:32] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:Can not find your address!
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:52:49] "[33mPOST /test_task/api/distance_address HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:52:56] "[35m[1mPOST /test_task/api/distance_address HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-523-291
+WARNING:werkzeug: * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+INFO:werkzeug: * Running on http://192.168.100.11:5000/ (Press CTRL+C to quit)
+INFO:app:Can not find your address!
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:55:01] "[33mPOST /test_task/api/distance_address HTTP/1.1[0m" 404 -
+INFO:app:Can not find your address!
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:55:15] "[33mPOST /test_task/api/distance_address HTTP/1.1[0m" 404 -
+INFO:app:distance from MKAD to Serbia is 1801.5632516894334 :
+INFO:werkzeug:127.0.0.1 - - [15/Aug/2021 14:55:29] "POST /test_task/api/distance_address HTTP/1.1" 200 -
+INFO:app:area inside MKAD
+INFO:app:make sure you have key address in your JSON data
+INFO:app:You have to send data in json format
+INFO:app:area inside MKAD
+INFO:app:Invalid address!
+INFO:app:Can not find your address!
+INFO:app:distance from MKAD to Indonesia, Jakarta is 9312.262106432034 :
+INFO:app:area inside MKAD
+INFO:app:make sure you have key address in your JSON data
+INFO:app:You have to send data in json format
+INFO:app:area inside MKAD
+INFO:app:Invalid address!
+INFO:app:Can not find your address!
+INFO:app:distance from MKAD to Indonesia, Jakarta is 9312.262106432034 :

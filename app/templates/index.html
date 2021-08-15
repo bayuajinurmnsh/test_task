@@ -1,0 +1,55 @@
+<html>
+<head><title>test</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+</head>
+<body>
+
+    <p>Default start point has been set to Moscow Ring Road (MKAD) at latitude:55.898947, longitude:37.632206</p>
+    <p>if you try to search : [MKAD, 60th kilometre, inner side] or another kilometre inside MKAD please input only a lat or long to better precision result</p><br>
+
+    <form class="form-group">
+        <!--Last Name-->
+        <div class="form-group">
+            <label for="address">Address</label>
+            <input type="text" class="form-control" id="id_address" placeholder="type your address" required>
+        </div>
+         <!--Submit Button-->
+         <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    
+    </br>
+        <div id="response">response will show here</div>
+    </br>
+
+
+    <script>
+$(document).ready(function() {
+    $('form').on('submit', function(event) {
+
+       const form_data = {
+           address:$("#id_address").val()
+       }
+
+      $.ajax({
+       data: JSON.stringify(form_data),
+           url: 'http://127.0.0.1:5000/test_task/api/distance_address',
+           type: 'POST',
+           dataType: 'json',
+           contentType: 'application/json',
+           success: function(message) {
+            $('#response').text(JSON.stringify(message));;
+            },
+            error: function (request, status, error) {
+            alert(request.responseText);
+            }   
+        })
+     event.preventDefault();
+     });
+});
+
+</script>
+</body>
+
+</html>
